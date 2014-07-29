@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectPool", "..\ObjectPool\ObjectPool.csproj", "{FCD6C897-DA6F-4B9A-AE3D-CEECFB33843E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPool", "..\FlyweightPool\FlyweightPool.csproj", "{B1C1E66D-2168-4D61-B2FA-23BC64133A7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FCD6C897-DA6F-4B9A-AE3D-CEECFB33843E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCD6C897-DA6F-4B9A-AE3D-CEECFB33843E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCD6C897-DA6F-4B9A-AE3D-CEECFB33843E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C1E66D-2168-4D61-B2FA-23BC64133A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C1E66D-2168-4D61-B2FA-23BC64133A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C1E66D-2168-4D61-B2FA-23BC64133A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C1E66D-2168-4D61-B2FA-23BC64133A7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

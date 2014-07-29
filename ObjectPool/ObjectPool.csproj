@@ -7,7 +7,7 @@
     <ProjectGuid>{FCD6C897-DA6F-4B9A-AE3D-CEECFB33843E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DesignPatterns.ObjectPool</RootNamespace>
+    <RootNamespace>DesignPatterns.FlyweightPool</RootNamespace>
     <AssemblyName>ObjectPool</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
