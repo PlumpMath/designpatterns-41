@@ -21,7 +21,6 @@ namespace DesignPatterns.FlyweightPool
     abstract class ShapeFlyweight : IShapeFlyweight
     {
         private Shape _internalShape = null;
-        private Random _randomizer = new Random();
 
         public Shape Shape
         {
@@ -35,7 +34,6 @@ namespace DesignPatterns.FlyweightPool
         }
 
         public bool IsInUse { get; set; }
-
 
         protected abstract Shape Draw(float scaleFactor);
 
